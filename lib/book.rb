@@ -14,6 +14,9 @@ class Book
 
 end
 
+puts shoe.cobble
+
+
   # def title
   #   @title
   # end
